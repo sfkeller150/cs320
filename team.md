@@ -1,4 +1,5 @@
 Group memnbers
 
-*sam
-*Mitchel Berg
+*Sam
+*Collin
+*Mitchel
