@@ -1,3 +1,3 @@
 # Lab Inc
 
-WE deevelope chemicals
+We develop chemicals
